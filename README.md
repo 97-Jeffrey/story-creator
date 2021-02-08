@@ -1,6 +1,8 @@
 # Story Creator
 
 This is an app that users can create stories online, merging other people's contributions to their own stories, and add contribution to others' stories.
+You can view our project at
+[Heroku](https://story-creator-club.herokuapp.com/).
 
 ## Screenshots
 
